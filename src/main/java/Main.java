@@ -54,7 +54,7 @@ public class Main {
             }else if (chooseMonth == months[11]){
                 december();
                 showHolidays();
-            }else if (chooseMonth == months[12]){
+            }else {
                 System.exit(0);
             }
 
